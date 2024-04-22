@@ -1,0 +1,852 @@
+.halaman-catering-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.halaman-catering-halaman-catering {
+  width: 100%;
+  height: 1709px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.halaman-catering-frame3 {
+  top: 558px;
+  left: 1014px;
+  width: 274px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text {
+  top: 14px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-frameiconshoppingcartoutline {
+  top: 6.239999771118164px;
+  left: 23.304122924804688px;
+  width: 42.09138870239258px;
+  height: 39.938682556152344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-catering-group {
+  top: 4.991487503051758px;
+  left: 3.5076093673706055px;
+  width: 33.96232986450195px;
+  height: 29.954858779907227px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-catering-vector {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 22px;
+  position: absolute;
+}
+.halaman-catering-vector1 {
+  top: 24.962543487548828px;
+  left: 7.015160083770752px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.halaman-catering-vector2 {
+  top: 24.962543487548828px;
+  left: 24.55327796936035px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.halaman-catering-catering-populer {
+  top: 706px;
+  left: 176px;
+  width: 1128px;
+  height: 305px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-catering-indonesiafood {
+  top: 47.7841796875px;
+  left: 0px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text02 {
+  top: 172.5228271484375px;
+  left: 16.277048110961914px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-indo2 {
+  top: 41.562255859375px;
+  left: 15.463156700134277px;
+  width: 186px;
+  height: 114px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-chinesefood {
+  top: 47px;
+  left: 231.9482421875px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text04 {
+  top: 173.3070068359375px;
+  left: 14.64926528930664px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-chinese2 {
+  top: 43.9149169921875px;
+  left: 16.277048110961914px;
+  width: 186px;
+  height: 112px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-arabicfood {
+  top: 47.7841796875px;
+  left: 459.826904296875px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text06 {
+  top: 172.5228271484375px;
+  left: 10.580068588256836px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-arab2 {
+  top: 43.1307373046875px;
+  left: 13.021742820739746px;
+  width: 186px;
+  height: 113px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-japanesefood {
+  top: 47.7841796875px;
+  left: 687.705810546875px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text08 {
+  top: 172.5228271484375px;
+  left: 14.649395942687988px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-jepanese2 {
+  top: 42.3465576171875px;
+  left: 13.021613121032715px;
+  width: 186px;
+  height: 114px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-western {
+  top: 47.7841796875px;
+  left: 915.58447265625px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text10 {
+  top: 172.5228271484375px;
+  left: 14.649395942687988px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-western2 {
+  top: 42.3465576171875px;
+  left: 13.021613121032715px;
+  width: 186px;
+  height: 114px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-text12 {
+  left: 3px;
+  color: rgba(0, 0, 0, 1);
+  width: 421px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text13 {
+  font-weight: 400;
+}
+.halaman-catering-rekomenkasi {
+  top: 1045px;
+  left: 166px;
+  width: 1128px;
+  height: 304px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-catering-indonesiafood1 {
+  top: 46.7841796875px;
+  left: 0px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text15 {
+  top: 172.5228271484375px;
+  left: 16.277048110961914px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-indo21 {
+  top: 41.562255859375px;
+  left: 15.463156700134277px;
+  width: 186px;
+  height: 114px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-chinesefood1 {
+  top: 46px;
+  left: 231.9482421875px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text17 {
+  top: 173.3070068359375px;
+  left: 14.64926528930664px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-chinese21 {
+  top: 43.9149169921875px;
+  left: 16.277048110961914px;
+  width: 186px;
+  height: 112px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-arabicfood1 {
+  top: 46.7841796875px;
+  left: 459.826904296875px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text19 {
+  top: 172.5228271484375px;
+  left: 10.580068588256836px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-arab21 {
+  top: 43.1307373046875px;
+  left: 13.021742820739746px;
+  width: 186px;
+  height: 113px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-japanesefood1 {
+  top: 46.7841796875px;
+  left: 687.705810546875px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text21 {
+  top: 172.5228271484375px;
+  left: 14.649395942687988px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-jepanese21 {
+  top: 42.3465576171875px;
+  left: 13.021613121032715px;
+  width: 186px;
+  height: 114px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-western1 {
+  top: 46.7841796875px;
+  left: 915.58447265625px;
+  width: 212.4155731201172px;
+  height: 257.2158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text23 {
+  top: 172.5228271484375px;
+  left: 14.649395942687988px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-western21 {
+  top: 42.3465576171875px;
+  left: 13.021613121032715px;
+  width: 186px;
+  height: 114px;
+  position: absolute;
+  border-radius: 8px;
+}
+.halaman-catering-text25 {
+  left: 5px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text26 {
+  font-weight: 400;
+}
+.halaman-catering-text27 {
+  font-weight: 300;
+}
+.halaman-catering-image2 {
+  top: -38px;
+  left: 0px;
+  width: 1440px;
+  height: 500px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.halaman-catering-group145 {
+  top: 518px;
+  left: 189px;
+  width: 185px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.halaman-catering-text29 {
+  top: 18.10126304626465px;
+  left: 64.347900390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text31 {
+  top: 104.08226013183594px;
+  left: 48.658756256103516px;
+  color: rgba(255, 255, 255, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text33 {
+  top: 47.51581573486328px;
+  left: 37.536231994628906px;
+  color: rgba(255, 255, 255, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-group152 {
+  top: -32px;
+  left: -32px;
+  width: 1455px;
+  height: 203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-catering-group148 {
+  top: 70px;
+  left: 1126px;
+  width: 329px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-catering-rectangle935 {
+  top: 9px;
+  left: 0px;
+  width: 329px;
+  height: 50px;
+  position: absolute;
+  border-radius: 50px;
+}
+.halaman-catering-ellipse21 {
+  top: 0px;
+  left: 168px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.halaman-catering-ellipse22 {
+  top: 9px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.halaman-catering-vector3 {
+  top: 22px;
+  left: 187px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.halaman-catering-vector4 {
+  top: 27px;
+  left: 279px;
+  width: 19px;
+  height: 18px;
+  position: absolute;
+}
+.halaman-catering-vector5 {
+  top: 27px;
+  left: 15px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.halaman-catering-rectangle934 {
+  top: 76px;
+  left: 66px;
+  width: 759px;
+  height: 50px;
+  position: absolute;
+  border-color: rgba(237, 113, 22, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+}
+.halaman-catering-logo {
+  left: 28px;
+  width: 276px;
+  bottom: -28px;
+  height: 191px;
+  position: absolute;
+}
+.halaman-catering-text35 {
+  top: 90px;
+  left: 247px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text37 {
+  top: 90px;
+  left: 383px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text39 {
+  top: 90px;
+  left: 519px;
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text41 {
+  top: 90px;
+  left: 690px;
+  color: rgba(0, 0, 0, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-vector6 {
+  top: 93px;
+  left: 1220px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.halaman-catering-footer {
+  top: 1349px;
+  left: 0px;
+  width: 1440px;
+  height: 360px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.halaman-catering-rectangle2 {
+  top: 42px;
+  left: -4px;
+  width: 1444px;
+  height: 383px;
+  position: absolute;
+}
+.halaman-catering-ellipse23 {
+  top: 10px;
+  left: 592px;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+}
+.halaman-catering-image41dcdc31ce644254bc1c16dc134992a31 {
+  top: -11px;
+  left: 516px;
+  width: 400px;
+  height: 323px;
+  position: absolute;
+}
+.halaman-catering-text43 {
+  top: 121px;
+  left: 104px;
+  color: rgba(251, 251, 251, 1);
+  width: 289px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-link {
+  display: contents;
+}
+.halaman-catering-mageinstagramcircle {
+  top: 167px;
+  left: 104px;
+  width: 48px;
+  height: 47px;
+  position: absolute;
+}
+.halaman-catering-link1 {
+  display: contents;
+}
+.halaman-catering-bifacebook {
+  top: 171px;
+  left: 176px;
+  width: 38px;
+  height: 39px;
+  position: absolute;
+}
+.halaman-catering-link2 {
+  display: contents;
+}
+.halaman-catering-antdesigntwittercirclefilled {
+  top: 167px;
+  left: 238px;
+  width: 49px;
+  height: 47px;
+  position: absolute;
+}
+.halaman-catering-link3 {
+  display: contents;
+}
+.halaman-catering-magetiktokcircle {
+  top: 167px;
+  left: 311px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+}
+.halaman-catering-tablercopyrightfilled {
+  top: 305px;
+  left: 624px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.halaman-catering-line58 {
+  top: 271px;
+  left: 95px;
+  width: 1250px;
+  height: 1px;
+  position: absolute;
+}
+.halaman-catering-text45 {
+  top: 305px;
+  left: 655px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text47 {
+  top: 132px;
+  left: 916px;
+  color: rgba(255, 255, 255, 1);
+  width: 429px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Roboto Condensed;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-catering-text48 {
+  font-weight: 700;
+}

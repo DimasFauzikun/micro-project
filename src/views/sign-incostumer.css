@@ -1,0 +1,413 @@
+.sign-incostumer-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-incostumer-sign-incostumer {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sign-incostumer-rectangle47 {
+  top: 172px;
+  left: 66px;
+  width: 730px;
+  height: 720px;
+  position: absolute;
+  border-radius: 200px 50px 500px 100px;
+}
+.sign-incostumer-image1c7bce6b8a674268a1b08321fd4ebce51 {
+  top: 454px;
+  left: 315px;
+  width: 604px;
+  height: 465px;
+  position: absolute;
+}
+.sign-incostumer-text {
+  top: 353px;
+  left: 89px;
+  color: rgba(255, 255, 255, 1);
+  width: 685px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-text02 {
+  top: 424px;
+  left: 110px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-rectangle48 {
+  top: 203px;
+  left: 837px;
+  width: 563px;
+  height: 58px;
+  position: absolute;
+}
+.sign-incostumer-text04 {
+  top: 218px;
+  left: 932px;
+  color: rgba(10, 10, 10, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-rectangle49 {
+  top: 203px;
+  left: 1107px;
+  width: 293px;
+  height: 58px;
+  position: absolute;
+}
+.sign-incostumer-text06 {
+  top: 218px;
+  left: 1203px;
+  color: rgba(0, 0, 0, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-group147 {
+  top: 382px;
+  left: 837px;
+  width: 575px;
+  height: 161px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-incostumer-rectangle946 {
+  top: 0px;
+  left: 0px;
+  width: 575px;
+  height: 72px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.sign-incostumer-rectangle947 {
+  top: 89px;
+  left: 0px;
+  width: 575px;
+  height: 72px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.sign-incostumer-password {
+  top: 112px;
+  left: 26px;
+  width: 131px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-incostumer-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-email {
+  top: 19px;
+  left: 26px;
+  width: 177px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-incostumer-text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 177px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-login {
+  top: 604px;
+  left: 919px;
+  width: 399px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(244, 188, 33, 1);
+}
+.sign-incostumer-text12 {
+  top: 16px;
+  left: 161px;
+  color: rgba(0, 0, 0, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-create-acc {
+  top: 699px;
+  left: 919px;
+  width: 399px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(244, 188, 33, 1);
+}
+.sign-incostumer-text14 {
+  top: 16px;
+  left: 107px;
+  color: rgba(0, 0, 0, 1);
+  width: 185px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-text16 {
+  top: 297px;
+  left: 837px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-group155 {
+  top: -17px;
+  left: -55px;
+  width: 1455px;
+  height: 203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sign-incostumer-group148 {
+  top: 70px;
+  left: 1126px;
+  width: 329px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-incostumer-rectangle935 {
+  top: 9px;
+  left: 0px;
+  width: 329px;
+  height: 50px;
+  position: absolute;
+  border-radius: 50px;
+}
+.sign-incostumer-ellipse21 {
+  top: 0px;
+  left: 168px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.sign-incostumer-ellipse22 {
+  top: 9px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.sign-incostumer-vector {
+  top: 22px;
+  left: 187px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.sign-incostumer-vector1 {
+  top: 27px;
+  left: 279px;
+  width: 19px;
+  height: 18px;
+  position: absolute;
+}
+.sign-incostumer-vector2 {
+  top: 27px;
+  left: 15px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.sign-incostumer-rectangle934 {
+  top: 76px;
+  left: 66px;
+  width: 759px;
+  height: 50px;
+  position: absolute;
+  border-color: rgba(237, 113, 22, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+}
+.sign-incostumer-logo {
+  left: 59px;
+  width: 238px;
+  bottom: -1px;
+  height: 195px;
+  position: absolute;
+}
+.sign-incostumer-text18 {
+  top: 90px;
+  left: 247px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-text20 {
+  top: 90px;
+  left: 383px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-text22 {
+  top: 90px;
+  left: 519px;
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-text24 {
+  top: 90px;
+  left: 690px;
+  color: rgba(0, 0, 0, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-incostumer-vector3 {
+  top: 93px;
+  left: 1220px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}

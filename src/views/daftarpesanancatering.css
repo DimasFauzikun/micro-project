@@ -1,0 +1,970 @@
+.daftarpesanancatering-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.daftarpesanancatering-daftarpesanancatering {
+  width: 100%;
+  height: 1739px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.daftarpesanancatering-frame2 {
+  top: 540px;
+  left: 1075px;
+  width: 213px;
+  height: 42px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-text {
+  top: 12px;
+  left: 64px;
+  color: rgba(0, 0, 0, 1);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-group {
+  top: 10.079999923706055px;
+  left: 24.7036075592041px;
+  width: 26.40137481689453px;
+  height: 24.19430923461914px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-vector {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 17px;
+  position: absolute;
+}
+.daftarpesanancatering-vector1 {
+  top: 20.16205596923828px;
+  left: 5.4533915519714355px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.daftarpesanancatering-vector2 {
+  top: 20.16205596923828px;
+  left: 19.087038040161133px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.daftarpesanancatering-frameiconshoppingcartoutline {
+  top: 619.369873046875px;
+  left: 267px;
+  width: 59.60386657714844px;
+  height: 97.82530975341797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-image2 {
+  top: 0px;
+  left: -2px;
+  width: 1440px;
+  height: 480px;
+  position: absolute;
+  border-radius: 0 0 10px 10px;
+}
+.daftarpesanancatering-group34 {
+  top: 621.00732421875px;
+  left: 110px;
+  width: 206.36663818359375px;
+  height: 148.3861083984375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(244, 188, 33, 1);
+}
+.daftarpesanancatering-rectangle34 {
+  top: 0px;
+  left: 0px;
+  width: 206px;
+  height: 148px;
+  position: absolute;
+}
+.daftarpesanancatering-rectangle30 {
+  top: 13.573878288269043px;
+  left: 13.894524574279785px;
+  width: 179px;
+  height: 110px;
+  position: absolute;
+}
+.daftarpesanancatering-group53 {
+  top: 678.29296875px;
+  left: 398.80810546875px;
+  width: 897.1917114257812px;
+  height: 261.25225830078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-rectangle79 {
+  top: 116.46240234375px;
+  left: 0px;
+  width: 897px;
+  height: 145px;
+  position: absolute;
+}
+.daftarpesanancatering-group49 {
+  top: 169.855224609375px;
+  left: 42.67626953125px;
+  width: 525.0159301757812px;
+  height: 66.96394348144531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-line50 {
+  top: 1.8080873489379883px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line53 {
+  top: 20.81218147277832px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line54 {
+  top: 38.00546646118164px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line55 {
+  top: 52.48530197143555px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line56 {
+  top: 66.96403503417969px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-group50 {
+  top: 0px;
+  left: 42.19189453125px;
+  width: 525.0159301757812px;
+  height: 66.96394348144531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-line501 {
+  top: 1.8080873489379883px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line531 {
+  top: 20.81218147277832px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line541 {
+  top: 38.00546646118164px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line551 {
+  top: 52.48530197143555px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line561 {
+  top: 66.96403503417969px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-text02 {
+  top: 132.7513885498047px;
+  left: 38.70643615722656px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-group57 {
+  top: 634.29296875px;
+  left: 110px;
+  width: 206.36663818359375px;
+  height: 148.3861083984375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-rectangle341 {
+  top: -14px;
+  left: 1px;
+  width: 205px;
+  height: 164px;
+  position: absolute;
+}
+.daftarpesanancatering-rectangle301 {
+  top: 13.573878288269043px;
+  left: 13.894524574279785px;
+  width: 179px;
+  height: 110px;
+  position: absolute;
+}
+.daftarpesanancatering-group58 {
+  top: 642.29296875px;
+  left: 397px;
+  width: 897.1917114257812px;
+  height: 144.7898406982422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-rectangle791 {
+  top: 32.00003433227539px;
+  left: 509.0001220703125px;
+  width: 78px;
+  height: 89px;
+  position: absolute;
+  border-radius: 10px;
+}
+.daftarpesanancatering-rectangle78 {
+  top: 33.19741439819336px;
+  left: 599.0923461914062px;
+  width: 78px;
+  height: 89px;
+  position: absolute;
+  border-radius: 10px;
+}
+.daftarpesanancatering-group531 {
+  top: 0px;
+  left: 0px;
+  width: 897.1917114257812px;
+  height: 144.7898406982422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-text04 {
+  top: 16.288986206054688px;
+  left: 38.70643615722656px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-group59 {
+  top: 812.29296875px;
+  left: 110.992431640625px;
+  width: 206.36663818359375px;
+  height: 148.3861083984375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-rectangle342 {
+  top: 0px;
+  left: 0px;
+  width: 206px;
+  height: 148px;
+  position: absolute;
+}
+.daftarpesanancatering-rectangle302 {
+  top: 13.57387924194336px;
+  left: 13.894524574279785px;
+  width: 178px;
+  height: 119px;
+  position: absolute;
+}
+.daftarpesanancatering-group60 {
+  top: 689.29296875px;
+  left: 398.80810546875px;
+  width: 897.1917114257812px;
+  height: 270.78985595703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-rectangle792 {
+  left: -1px;
+  width: 897px;
+  bottom: 12px;
+  height: 153px;
+  position: absolute;
+}
+.daftarpesanancatering-group491 {
+  top: 168px;
+  left: 42.67626953125px;
+  width: 525.0159301757812px;
+  height: 66.96394348144531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-line502 {
+  top: 1.8080873489379883px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line532 {
+  top: 20.81218147277832px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line542 {
+  top: 38.00546646118164px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line552 {
+  top: 52.48530197143555px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line562 {
+  top: 66.96403503417969px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-group501 {
+  top: 0px;
+  left: 42.19189453125px;
+  width: 525.0159301757812px;
+  height: 66.96394348144531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-line503 {
+  top: 1.8080873489379883px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line533 {
+  top: 20.81218147277832px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line543 {
+  top: 38.00546646118164px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line553 {
+  top: 52.48530197143555px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line563 {
+  top: 66.96403503417969px;
+  left: 0.000001317773694609059px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-text06 {
+  top: 131px;
+  left: 38.70654296875px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-group61 {
+  top: 1002.29296875px;
+  left: 110px;
+  width: 206.36663818359375px;
+  height: 148.3861083984375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-rectangle343 {
+  top: 0px;
+  left: 0px;
+  width: 206px;
+  height: 148px;
+  position: absolute;
+}
+.daftarpesanancatering-rectangle303 {
+  top: 13.573878288269043px;
+  left: 13.894524574279785px;
+  width: 179px;
+  height: 120px;
+  position: absolute;
+}
+.daftarpesanancatering-group62 {
+  top: 1005.29296875px;
+  left: 397.81591796875px;
+  width: 897.1917114257812px;
+  height: 144.7898406982422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-group51 {
+  top: 53.390865325927734px;
+  left: 42.67616653442383px;
+  width: 525.0159301757812px;
+  height: 66.96562957763672px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-line504 {
+  top: 1.8098727464675903px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line534 {
+  top: 20.813966751098633px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line544 {
+  top: 38.00725173950195px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line554 {
+  top: 52.48708724975586px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line564 {
+  top: 66.9658203125px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-text08 {
+  top: 16.288986206054688px;
+  left: 38.70643997192383px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-group63 {
+  top: 1204.29296875px;
+  left: 110px;
+  width: 206.36663818359375px;
+  height: 148.3861083984375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-rectangle344 {
+  top: 0px;
+  left: 0px;
+  width: 206px;
+  height: 148px;
+  position: absolute;
+}
+.daftarpesanancatering-rectangle304 {
+  top: 13.573878288269043px;
+  left: 13.894524574279785px;
+  width: 179px;
+  height: 120px;
+  position: absolute;
+}
+.daftarpesanancatering-group64 {
+  top: 1207.29296875px;
+  left: 397.81591796875px;
+  width: 897.1917114257812px;
+  height: 144.7898406982422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.daftarpesanancatering-group511 {
+  top: 53.390865325927734px;
+  left: 42.67616653442383px;
+  width: 525.0159301757812px;
+  height: 66.96562957763672px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-line505 {
+  top: 1.8098727464675903px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line535 {
+  top: 20.813966751098633px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line545 {
+  top: 38.00725173950195px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line555 {
+  top: 52.48708724975586px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-line565 {
+  top: 66.9658203125px;
+  left: 0px;
+  width: 525px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-text10 {
+  top: 16.288986206054688px;
+  left: 38.70643997192383px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-group153 {
+  top: -16px;
+  left: -17px;
+  width: 1455px;
+  height: 203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.daftarpesanancatering-group148 {
+  top: 70px;
+  left: 1126px;
+  width: 329px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.daftarpesanancatering-rectangle935 {
+  top: 9px;
+  left: 0px;
+  width: 329px;
+  height: 50px;
+  position: absolute;
+  border-radius: 50px;
+}
+.daftarpesanancatering-ellipse21 {
+  top: 0px;
+  left: 168px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.daftarpesanancatering-ellipse22 {
+  top: 9px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.daftarpesanancatering-vector3 {
+  top: 22px;
+  left: 187px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.daftarpesanancatering-vector4 {
+  top: 27px;
+  left: 279px;
+  width: 19px;
+  height: 18px;
+  position: absolute;
+}
+.daftarpesanancatering-vector5 {
+  top: 27px;
+  left: 15px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.daftarpesanancatering-rectangle934 {
+  top: 76px;
+  left: 66px;
+  width: 759px;
+  height: 50px;
+  position: absolute;
+  border-color: rgba(237, 113, 22, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+}
+.daftarpesanancatering-logo {
+  left: -1px;
+  width: 276px;
+  bottom: -10px;
+  height: 203px;
+  position: absolute;
+}
+.daftarpesanancatering-text12 {
+  top: 90px;
+  left: 247px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-text14 {
+  top: 90px;
+  left: 383px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-text16 {
+  top: 90px;
+  left: 519px;
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-text18 {
+  top: 90px;
+  left: 690px;
+  color: rgba(0, 0, 0, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-vector6 {
+  top: 93px;
+  left: 1220px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.daftarpesanancatering-footer {
+  top: 1380px;
+  left: 0px;
+  width: 1440px;
+  height: 360px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.daftarpesanancatering-rectangle2 {
+  top: 42px;
+  left: -4px;
+  width: 1444px;
+  height: 383px;
+  position: absolute;
+}
+.daftarpesanancatering-text20 {
+  top: 121px;
+  left: 104px;
+  color: rgba(251, 251, 251, 1);
+  width: 289px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-link {
+  display: contents;
+}
+.daftarpesanancatering-mageinstagramcircle {
+  top: 167px;
+  left: 104px;
+  width: 48px;
+  height: 47px;
+  position: absolute;
+}
+.daftarpesanancatering-link1 {
+  display: contents;
+}
+.daftarpesanancatering-bifacebook {
+  top: 171px;
+  left: 176px;
+  width: 38px;
+  height: 39px;
+  position: absolute;
+}
+.daftarpesanancatering-link2 {
+  display: contents;
+}
+.daftarpesanancatering-antdesigntwittercirclefilled {
+  top: 167px;
+  left: 238px;
+  width: 49px;
+  height: 47px;
+  position: absolute;
+}
+.daftarpesanancatering-link3 {
+  display: contents;
+}
+.daftarpesanancatering-magetiktokcircle {
+  top: 167px;
+  left: 311px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+}
+.daftarpesanancatering-tablercopyrightfilled {
+  top: 305px;
+  left: 624px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.daftarpesanancatering-line58 {
+  top: 271px;
+  left: 95px;
+  width: 1250px;
+  height: 1px;
+  position: absolute;
+}
+.daftarpesanancatering-text22 {
+  top: 305px;
+  left: 655px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-text24 {
+  top: 132px;
+  left: 916px;
+  color: rgba(255, 255, 255, 1);
+  width: 429px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Roboto Condensed;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-text25 {
+  font-weight: 700;
+}
+.daftarpesanancatering-text27 {
+  top: 579px;
+  left: 121px;
+  color: rgba(0, 0, 0, 1);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.daftarpesanancatering-text28 {
+  font-weight: 400;
+}
+.daftarpesanancatering-text29 {
+  font-weight: 300;
+}
+.daftarpesanancatering-image41dcdc31ce644254bc1c16dc134992a33 {
+  top: 1326px;
+  left: 520px;
+  width: 400px;
+  height: 350px;
+  position: absolute;
+  border-radius: 50px;
+}

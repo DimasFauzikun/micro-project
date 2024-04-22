@@ -1,0 +1,692 @@
+.pesan-sekarang-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pesan-sekarang-pesan-sekarang {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pesan-sekarang-text {
+  top: 183px;
+  left: 79px;
+  color: rgba(0, 0, 0, 1);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-alamat {
+  top: 245px;
+  left: 68px;
+  width: 612px;
+  height: 174px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pesan-sekarang-rectangle42 {
+  top: 25.493507385253906px;
+  left: 0px;
+  width: 519px;
+  height: 127px;
+  position: absolute;
+  border-radius: 10px;
+}
+.pesan-sekarang-text02 {
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text04 {
+  top: 124px;
+  left: 469px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-alamat1 {
+  top: 444px;
+  left: 68px;
+  width: 519px;
+  height: 48.99384307861328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.pesan-sekarang-text06 {
+  top: 11.126953125px;
+  left: 182px;
+  color: rgba(0, 0, 0, 1);
+  width: 168px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-pesan {
+  top: 0px;
+  left: 720px;
+  width: 731.26708984375px;
+  height: 1024px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pesan-sekarang-rectangle38 {
+  top: 0px;
+  left: 0px;
+  width: 725px;
+  height: 1024px;
+  position: absolute;
+}
+.pesan-sekarang-rectangle39 {
+  top: 198.4814453125px;
+  left: 31.21240234375px;
+  width: 160px;
+  height: 150px;
+  position: absolute;
+  border-radius: 31px;
+}
+.pesan-sekarang-rectangle41 {
+  top: 369px;
+  left: 31px;
+  width: 160px;
+  height: 150px;
+  position: absolute;
+  border-radius: 31px;
+}
+.pesan-sekarang-rectangle43 {
+  top: 536px;
+  left: 31px;
+  width: 160px;
+  height: 150px;
+  position: absolute;
+  border-radius: 31px;
+}
+.pesan-sekarang-text08 {
+  top: 215.38671875px;
+  left: 206.40402221679688px;
+  color: rgba(0, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text10 {
+  top: 385.9052734375px;
+  left: 206.19161987304688px;
+  color: rgba(0, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text12 {
+  top: 552.9052734375px;
+  left: 206.19161987304688px;
+  color: rgba(0, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text14 {
+  top: 215.38671875px;
+  left: 539.67138671875px;
+  color: rgba(0, 0, 0, 1);
+  width: 163px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text16 {
+  top: 385.9052734375px;
+  left: 539.458984375px;
+  color: rgba(0, 0, 0, 1);
+  width: 163px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text18 {
+  top: 552.9052734375px;
+  left: 539.458984375px;
+  color: rgba(0, 0, 0, 1);
+  width: 163px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text20 {
+  top: 260px;
+  left: 206px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text22 {
+  top: 431px;
+  left: 206px;
+  color: rgba(0, 0, 0, 1);
+  width: 189px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text24 {
+  top: 598px;
+  left: 206px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-rectangle40 {
+  top: 314.9365234375px;
+  left: 231.57516479492188px;
+  width: 152px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.pesan-sekarang-rectangle421 {
+  top: 485.455078125px;
+  left: 231.36276245117188px;
+  width: 152px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.pesan-sekarang-rectangle44 {
+  top: 652px;
+  left: 232px;
+  width: 152px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.pesan-sekarang-gravityuiminus {
+  top: 319.6328125px;
+  left: 255.73968505859375px;
+  width: 25px;
+  height: 23px;
+  position: absolute;
+}
+.pesan-sekarang-gravityuiminus1 {
+  top: 490.1513671875px;
+  left: 255.52728271484375px;
+  width: 25px;
+  height: 23px;
+  position: absolute;
+}
+.pesan-sekarang-gravityuiminus2 {
+  top: 656.6962890625px;
+  left: 256.16455078125px;
+  width: 25px;
+  height: 23px;
+  position: absolute;
+}
+.pesan-sekarang-flowbiteplusoutline {
+  top: 319.6328125px;
+  left: 339.30810546875px;
+  width: 24px;
+  height: 23px;
+  position: absolute;
+}
+.pesan-sekarang-flowbiteplusoutline1 {
+  top: 490.1513671875px;
+  left: 339.095703125px;
+  width: 24px;
+  height: 23px;
+  position: absolute;
+}
+.pesan-sekarang-flowbiteplusoutline2 {
+  top: 656.6962890625px;
+  left: 339.73291015625px;
+  width: 24px;
+  height: 23px;
+  position: absolute;
+}
+.pesan-sekarang-text26 {
+  top: 318.6943359375px;
+  left: 302.0547180175781px;
+  color: rgba(0, 0, 0, 1);
+  width: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text27 {
+  top: 489.212890625px;
+  left: 301.8423156738281px;
+  color: rgba(0, 0, 0, 1);
+  width: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text28 {
+  top: 655.7578125px;
+  left: 302.4794921875px;
+  color: rgba(0, 0, 0, 1);
+  width: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-flowbitetrashbinoutline {
+  top: 313.05859375px;
+  left: 394.6850280761719px;
+  width: 38px;
+  height: 36px;
+  position: absolute;
+}
+.pesan-sekarang-flowbitetrashbinoutline1 {
+  top: 483.5771484375px;
+  left: 394.4726257324219px;
+  width: 38px;
+  height: 36px;
+  position: absolute;
+}
+.pesan-sekarang-flowbitetrashbinoutline2 {
+  top: 650.5771484375px;
+  left: 394.4726257324219px;
+  width: 38px;
+  height: 36px;
+  position: absolute;
+}
+.pesan-sekarang-catatan {
+  top: 709px;
+  left: 50px;
+  width: 626.2603149414062px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.pesan-sekarang-text29 {
+  top: 5.411628246307373px;
+  left: 21.143798828125px;
+  color: rgba(13, 13, 13, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-line35 {
+  top: 822px;
+  left: 47px;
+  width: 637px;
+  height: 1px;
+  position: absolute;
+}
+.pesan-sekarang-text31 {
+  top: 855px;
+  left: 545px;
+  color: rgba(0, 0, 0, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text33 {
+  top: 855px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  width: 162px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-continue {
+  top: 936px;
+  left: 50px;
+  width: 634.3151245117188px;
+  height: 51.65357971191406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(237, 113, 22, 1);
+}
+.pesan-sekarang-text35 {
+  top: 8.9892578125px;
+  left: 279.4523620605469px;
+  color: rgba(10, 10, 10, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-materialsymbolsclose {
+  top: 42px;
+  left: 1361px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.pesan-sekarang-group155 {
+  top: -29px;
+  left: -15px;
+  width: 1455px;
+  height: 203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pesan-sekarang-group148 {
+  top: 70px;
+  left: 1126px;
+  width: 329px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pesan-sekarang-rectangle935 {
+  top: 9px;
+  left: 0px;
+  width: 329px;
+  height: 50px;
+  position: absolute;
+  border-radius: 50px;
+}
+.pesan-sekarang-ellipse21 {
+  top: 0px;
+  left: 168px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.pesan-sekarang-ellipse22 {
+  top: 9px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.pesan-sekarang-vector {
+  top: 22px;
+  left: 187px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.pesan-sekarang-vector1 {
+  top: 27px;
+  left: 279px;
+  width: 19px;
+  height: 18px;
+  position: absolute;
+}
+.pesan-sekarang-vector2 {
+  top: 27px;
+  left: 15px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.pesan-sekarang-rectangle934 {
+  top: 76px;
+  left: 66px;
+  width: 759px;
+  height: 50px;
+  position: absolute;
+  border-color: rgba(237, 113, 22, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+}
+.pesan-sekarang-logo {
+  left: 16px;
+  width: 276px;
+  bottom: -21px;
+  height: 182px;
+  position: absolute;
+}
+.pesan-sekarang-text37 {
+  top: 90px;
+  left: 247px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text39 {
+  top: 90px;
+  left: 383px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text41 {
+  top: 90px;
+  left: 519px;
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-text43 {
+  top: 90px;
+  left: 690px;
+  color: rgba(0, 0, 0, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pesan-sekarang-vector3 {
+  top: 93px;
+  left: 1220px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
